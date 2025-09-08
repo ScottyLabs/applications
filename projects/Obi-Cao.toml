@@ -5,4 +5,3 @@ description = "Custom Connections allows players to create their own categories 
 [[projects]]
 url = "https://github.com/Obi-Cao/ArtiFact"
 description = "ArtiFact uses a convolutional neural network to classify works of art inputted by users into different styles and movements."
-
