@@ -4,7 +4,7 @@ description = "Composting RAG chatbot and composting bin activity data visualize
 
 [[projects]]
 url = "https://github.com/Eugene-S-Hwang/hackNYU-CompostED"
-description = "Submission to HackNYU 2025. Created CompostED that is a simple composting simulator and improved version of composting RAG chatbot."
+description = "Submission for HackNYU 2025. Created CompostED that is a simple composting simulator and improved version of composting RAG chatbot."
 
 [[projects]]
 url = "https://github.com/Eugene-S-Hwang/chaemin"
