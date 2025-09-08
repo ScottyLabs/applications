@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/KothurVidur/NeuralNetwork"
+description = "A implementation from scratch using Python and Numpy of a framework for creating and training neural networks complete with automatic differentiation."
+
+[[projects]]
+url = "https://github.com/KothurVidur/KeyQB"
+description = "A reimplementation of QBReader with the feature of filtering questions using the QBReader API to facilitate target practice, using HTML/CSS/JS and Google Apps Script."
+
+[[projects]]
+url = "https://github.com/KothurVidur/QBLearn"
+description = "A reimplementation of QBReader with an AI feature that provides explanations for how certain clues point to answers, using HTML/CSS/JS, Google Gemini API, and Google Apps Script."
