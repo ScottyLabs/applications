@@ -37,11 +37,3 @@ description = "plain old tetris using python and pygame (very old project!)"
 [[projects]]
 url = "https://github.com/Ritvik2205/PairTrading"
 description = "algorithmic trading implementation from a research paper on pair trading using distance method, cointegration and I added a personal improvement of LSTM and hidden markov model to improve predictions."
-
-[[projects]]
-url = "https://github.com/Ritvik2205/PairTrading"
-description = "algorithmic trading implementation from a research paper on pair trading using distance method, cointegration and I added a personal improvement of LSTM and hidden markov model to improve predictions."
-
-[[projects]]
-url = "https://github.com/Ritvik2205/PairTrading"
-description = "algorithmic trading implementation from a research paper on pair trading using distance method, cointegration and I added a personal improvement of LSTM and hidden markov model to improve predictions."
