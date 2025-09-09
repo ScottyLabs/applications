@@ -1,0 +1,9 @@
+[[projects]]
+
+url = "https://github.com/cg3667/Turtle"
+description = "Minigame created using Python."
+
+[[projects]]
+
+url = "https://github.com/cg3667/SongList"
+description = "Program in Python where the user can add and delete songs from a playlist."
