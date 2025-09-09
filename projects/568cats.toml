@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/568cats/PD-Early-Detection-Tool"
+description = "A web application that utilizes multiple custom-built machine-learning models to detect Alzheimer's and Parkinson's Diseases."
+
+[[projects]]
+url = "https://github.com/568cats/StoryPlots"
+description = "An Android Studio app that allows users to create and edit storyboards (wip)"
