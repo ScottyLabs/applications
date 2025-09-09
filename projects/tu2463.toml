@@ -1,0 +1,35 @@
+[[projects]]
+url = "https://github.com/tu2463/15-466-f25-base2"
+description = "Long Rope Jumping Blobs | Computer Game Programming - 3D Mesh and Scene Practice"
+
+[[projects]]
+url = "https://github.com/tu2463/15-466-f25-base1"
+description = "Get to My Friend | Computer Game Programming - Asset Pipeline Practice"
+
+[[projects]]
+url = "https://github.com/tu2463/seeing-js"
+description = "A Work In Progress JavaScript Event Loop Visualizer"
+
+[[projects]]
+url = "https://github.com/tu2463/offmychest-supportive-comments-analysis"
+description = "The Python/Pandas scripts used for investigating whether specific types of word usage in stress-expressing posts correlate with the likelihood of receiving supportive comments. Used r/offmychest subreddit as data source."
+
+[[projects]]
+url = "https://github.com/tu2463/rock_generator_addon"
+description = "The Rock Generator add-on for Blender allows you to quickly create procedural rocks with one click using a custom geometry node setup and material."
+
+[[projects]]
+url = "https://github.com/tu2463/2024-Pittsburgh-Global-Game-Jam"
+description = "A maze game built with Unity and a theme of Make Me Laugh during 2024 Pittsburgh Global Game Jam."
+
+[[projects]]
+url = "https://github.com/tu2463/BookBound-Game-Jam"
+description = "A platformer game with the theme of Charlie and the Chocolate Factory."
+
+[[projects]]
+url = "https://github.com/tu2463/Legacy"
+description = "A combat game with a theme of “The Grandfather Paradox”."
+
+[[projects]]
+url = "https://github.com/tu2463/pui-homework-cheyut"
+description = "2023 Fall Programming Usable Interface weekly homework (a basic online bakery ordering website) and the final project (Focus with the Universe, a productivity web app)"
