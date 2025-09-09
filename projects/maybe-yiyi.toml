@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/maybe-yiyi/blackjack"
+description = "Project to design a simple blackjack game that has multiple hands, keeps track of points. Written with C++, SFML, and CMake. Pixel art cards credit to me."
+
+[[projects]]
+url = "https://github.com/maybe-yiyi/chaosemulator"
+description = "Project to visualize chaos equations, or general differential equations, in three dimensions. Written with C++, SFML, and CMake."
+
+[[projects]]
+url = "https://github.com/maybe-yiyi/carbdot"
+description = "Project to play card games through a Discord bot. Written with Typescript, MongoDB, and Discordjs API. (not sure it's actually functional at the moment)"
+
+[[projects]]
+url = "https://github.com/maybe-yiyi/music"
+description = "Script to play local mp4 files, contains pause, play, volume control, shuffle. Written with C++, SFML, and CMake."
+
+[[projects]]
+url = "https://github.com/maybe-yiyi/Bot1"
+description = "Project to simulate an economy in discord, includes income, spending in a shop, pets that provides buffs, balance changes. Written with Javascript, MongoDB, and Discordjs API."
