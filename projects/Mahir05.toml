@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/mahir05/asciiBlaster"
+description = "A retro arcade style Pygame project generating 3D ASCII art that uses a custom model-view-controller framwork; won top 3 15-112 term project (Spring 2025)."
+
+[[projects]]
+url = "https://github.com/Mahir05/bseStar"
+description = "A version of my internship project - a full-stack application for placing orders on the BSE Star Mutual Fund platform with a .NET Core API backend and Angular frontend."
