@@ -2,7 +2,6 @@
 url = "https://github.com/allo-abhi/Epic-ASCII-Blaster"
 description = "Interactive ASCII-graphics shape shooter game in Python with real-time input handling and dynamic visuals."
 
-
 [[projects]]
 name = "djamo-api-challenge"
 url = "https://github.com/allo-abhi/djamo-api-challenge"
