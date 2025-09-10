@@ -4,7 +4,7 @@ description = "Custom deep and ensemble methods for an RL trading agent acting i
 
 [[projects]]
 url = "https://github.com/asanth7/Minority-USMedia-Representation"
-description = "Topic modeling analysis of 30,000+ news articles on racial minorities in America with NMF and LDA algorithms (NLP)."
+description = "Topic modeling analysis of 30,000+ news articles on racial minorities in America with NMF and LDA algorithms."
 
 [[projects]]
 url = "https://github.com/asanth7/SP500-news-prediction"
