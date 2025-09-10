@@ -1,0 +1,20 @@
+[[projects]]
+url = "https://github.com/Alicelavander/AugmentedNet"
+description = "Forked repository of AugmentedNet, improves inference accuracy through additional texturization of the training dataset."
+
+[[projects]]
+url = "https://github.com/Alicelavander/interactive-rma"
+description = "A MuseSore plugin that inferences Roman Numeral Analysis for a given music. Uses updated/augmented model of AugmentedNet."
+
+[[projects]]
+url = "https://github.com/h2o-mizu/SafeNavi-swift"
+description = "An iOS navigation app that incorporates road safety as a factor in path planning."
+
+[[projects]]
+url = "https://github.com/Big-Red-Robotics/CenterStage"
+description = "Robot code for Team 11166 in FIRST Tech Challenge, CenterStage season. Written in Java, uses OpenCV for basic image manipulation."
+
+[[projects]]
+url = "https://github.com/Alicelavander/cube_cut"
+description = "A Unity game that simulates the gemotry of cube cross-sections."
+
