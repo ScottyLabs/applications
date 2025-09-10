@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://richardz.dev"
+description = "WIP portfolio website built with Astro + Tailwind, self-hosted using Nginx and Cloudflare"
+
+[[projects]]
+url = "https://github.com/OpenTeens/gestureX"
+description = "A gesture recognition project using MediaPipe and an MLP with features like a virtual keyboard, drawboard, and shape recognition."
+
+[[projects]]
+url = "https://github.com/Richard-31415/Swapping-Autoencoder-Style-Transfer"
+description = "A generative AI project in TensorFlow that performs artistic style transfer by disentangling an image's structure and texture using a Swapping Autoencoder."
