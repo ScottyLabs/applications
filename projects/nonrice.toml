@@ -1,0 +1,27 @@
+[[projects]]
+url = "https://github.com/nonrice/mjudge"
+description = "Online competitive programming judge/autograder for my high school's competitive programming club"
+
+[[projects]]
+url = "https://github.com/paulmthompson/WhiskerToolbox"
+description = "Desktop application for neuroscience-specific data analysis
+
+[[project]]
+url = "https://github.com/nonrice/clash-royale-battle-predictor"
+description = "Neural network trained on historical game data to predict outcome of Clash Royale matches"
+
+[[project]]
+url = "https://github.com/nonrice/basedGA"
+description = "Multithreaded implementation of the genetic algorithm"
+
+[[project]]
+url = "https://github.com/nonrice/mandelbrot"
+description = "Interactive mandelbrot set renderer"
+
+[[project]]
+url = "https://github.com/nonrice/discord-auto-message"
+description = "Simple and ugly HTTP script for automessaging on Discord... it has a lot of stars for some reason"
+
+[[project]]
+url = "https://github.com/nonrice/chess-game"
+description = "Online chess webapp"
