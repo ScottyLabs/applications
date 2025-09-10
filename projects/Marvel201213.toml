@@ -1,0 +1,4 @@
+[[projects]]
+url = "https://github.com/Marvel201213/customer-ai"
+description = "A customer support AI chatbot with open AI API Calls using React, Next.js, and deployed on Vercel"
+
