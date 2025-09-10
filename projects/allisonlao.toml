@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/allisonlao/roommateMatcher2"
+description = "A program I wrote for my DECA chapter that randomly generates and scores roommate pairings until it finds the most optimal one. I wrote another in python but i like this version more"
+
+[[projects]]
+url = "https://github.com/allisonlao/mindsweeperGame"
+description = "A program I wrote in java to simulate the mindsweeper game, just a fun project"
