@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/cahove/FLIRenergysavingsapp"
+description = "This project is an iOS application that applies filters to a FLIR infrared camera to highlight certain temperatures or visual characteristics. It is written in Swift. The application goes in conjunction with a camera attached to a drone for roof inspections."
+
+[[projects]]
+url = "https://github.com/Community-Engineers-Club/cecwebsite_v2"
+description = "(old) Website for Community Engineers Club. The website displays rainfall and temperature data from the 3D-printed rain gauge onsite at a high school. It also displays the flooding level in 2D and 3D and can predict future water levels at the high school. Made using React."
+
+[[projects]]
+url = "https://cahove.com/experience/bnl"
+description = "Analysis of Quantity of Pi Mesons and Calorimeter Calibration for a physics experiment at Brookhaven National Laboratory. Written in C."
