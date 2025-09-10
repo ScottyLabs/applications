@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/sharkree/troop14-library"
+description = "Private repo. A web app using Flask and SQL that serve(d) as an automated library software for my old Boy Scout Troop to help out troop librarians."
+
+[[projects]]
+url = "https://github.com/sharkree/engraver-code"
+description = "Private repo. Java Pure Pursuit pathing that reads a .gcode file and utilizes the FIRST Tech Challenge SDK to control a custom-made 15inx15in laser engraver"
