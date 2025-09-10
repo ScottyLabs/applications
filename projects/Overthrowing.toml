@@ -1,0 +1,43 @@
+[[projects]]
+url = "https://github.com/Overthrowing/PyPerceptron"
+description = "A neural network (multilayer perceptron) implementation from scratch using Numpy."
+
+[[projects]]
+url = "https://github.com/Overthrowing/Chargepol3D"
+description = "Project I worked on whilst interning at a lab: A 3d-visualizer of the chargepol dataset. The script only demonstrates the charge layer of VHF-lightning data over the Houston area."
+
+[[projects]]
+url = "https://github.com/Overthrowing/PERSIANN-Figure-Script"
+description = "Project I worked on whilst interning at a lab: Figure generator for the PERSIANN precipitation data set around the Houston area."
+
+[[projects]]
+url = "https://github.com/Overthrowing/BaseConvertPy"
+description = "Python module to switch between bases in Python."
+
+[[projects]]
+url = "https://github.com/Overthrowing/Boids"
+description = "An implementation of boids in GoDot."
+
+[[projects]]
+url = "https://github.com/Overthrowing/SimpleCaptcha"
+description = "A simple captcha generation tool for your terminal."
+
+[[projects]]
+url = "https://github.com/Overthrowing/Geccoi"
+description = "Use your camera to control mouse and keyboard."
+
+[[projects]]
+url = "https://github.com/Overthrowing/Sudoku-Solver"
+description = "Recursive backtracking based sudoku solver with terminal board rendering."
+
+[[projects]]
+url = "https://github.com/Overthrowing/ImageAPI"
+description = "An API where you can share labeled images and generate color pallets for images."
+
+[[projects]]
+url = "https://github.com/Overthrowing/PyShorten"
+description = "A URL shortener built with Flask."
+
+[[projects]]
+url = "https://github.com/Overthrowing/Discord-Grammar-Police"
+description = "A bot that uses language tool to correct everyone's grammar and spelling in a Discord server.."
