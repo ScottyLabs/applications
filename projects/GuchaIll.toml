@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/GuchaIll/Concept.io"
+description = "A full-stack all-in-one web drawing react app and project tracker designed to boost the productivity of game development teams. It serves as a collaborative platform for creating concept art, managing design documents, planning meetings, tracking progress, assigning tasks, and storing game ideas—all in one place."
+
+[[projects]]
+url = "https://github.com/GuchaIll/CMU-Consulting-Final"
+description = "Final capstone project for Mobile Web Design & Development, collaborating with the CMU IS Department to design and build a sustainable website showcasing IS courses for community partners."
+
+[[projects]]
+url = "https://github.com/GuchaIll/ecohunt"
+description = "A gamified recycling and item trading React Native application developed during the Tartan Hack hackathon as a solo project."
+
+[[projects]]
+url = "https://github.com/GuchaIll/ChessBot"
+description = "Python-based chess game with AI functionality featuring an interactive graphical interface built using pygame."
+
+[[projects]]
+url = "https://github.com/GuchaIll/MachinaAutomatonAlpha"
+description = "Action RPG game built with Unreal Engine developed as a Game Creation Society project that I lead."

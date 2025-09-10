@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/BlastCoder/NBA-Shot-Prediction"
+description = "This is a logistic regression model analyzing the likelihood of an NBA shot."
+
+[[projects]]
+url = "https://github.com/BlastCoder/Smart-Carpool"
+description = "This project is a mobile iOS app automating school student carpooling to enhance child safety. The frontend is built through SwiftUI. The backend consists of various deep learning models and cloud architecture to enable real-time synchronization and decrease child wait time."
+
+[[projects]]
+url = "https://github.com/BlastCoder/Taskr"
+description = "This project is a simple Agenda web application. The app uses Python, Flask, JavaScript, HTML, and CSS. There are three functionalities: reminders, flashcards, and notebooks (and all are integrated together). This was mainly built for my personal notetaking."

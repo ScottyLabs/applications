@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/hyraxapp/hyrax/tree/main"
+description = "This is the frontend for HyraxApp online SAT webapp built using React and adapts to user skill levels"
+
+[[projects]]
+url = "https://github.com/Team254/cheesy-hours"
+description = "Helped add Calendar Feature of Sign in System and Attendance Tracking With optimized SQL queries and frontend display"
+
+[[projects]]
+url = "https://github.com/SLin24/IntroToProgrammingFinalProject"
+description = "Maze and MineSweeper Solvers, latter of which is performed using pattern searching with Aho-Corasick and KMP algorithms"
+
+[[projects]]
+url = "https://github.com/SLin24/Algorithms"
+description = "General list of algorithms commonly used in competitive programming problems"
+
+[[projects]]
+url = "https://github.com/SLin24/Adaptive-Epsilon-Annealing-With-Rainbow-DQN"
+description = "Paper documenting results of testing adaptive hyperparameter modifications with Rainbow DQN"

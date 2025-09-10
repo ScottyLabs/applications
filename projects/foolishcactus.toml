@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/foolishcactus/stravatitan"
+description = "Built with Angular, Flask, PostgreSQL exclusively on Docker Containers. It connects to your Strava account using OAuth and provides data visualization with realtime updates."
+
+[[projects]]
+url = "https://github.com/foolishcactus/eaglescoutwebsite"
+description = "Built with Angular and Firebase. Utilized FireStore, Cloud Storage, Authentication and Cloud Functions within Firebase. A prototype matching website that connects nonprofits, posting Eagle Scout project opportunities, with prospective Eagle Scouts seeking community service projects. Think of Glassdoor, Indeed but for EagleScout Projects."

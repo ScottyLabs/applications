@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/25sreddy/Sympto-Scan"
+description = "A cross-platform app that combines image analysis and symptom checklists to provide preliminary health guidance."
+
+[[projects]]
+url = "https://github.com/25sreddy/Weather-Website"
+description = "A responsive JavaScript site that fetches and displays current conditions and forecasts via a public weather API."
+
+[[projects]]
+url = "https://github.com/25sreddy/tsa_webmaster"
+description = "A full-stack website built for the TSA Webmaster competition with structured content and custom styling."

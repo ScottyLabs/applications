@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/Lawl84/Solar-buddy-new"
+description = "A website that predicts the optimal angle for solar panel placement based on its topographical position."
+
+[[projects]]
+url = "https://github.com/Lawl84/asciify-video"
+description = "A CLI that converts and plays a video consisting of asciified images."

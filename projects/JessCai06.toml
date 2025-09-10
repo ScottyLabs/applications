@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/JessCai06/Jess-Portfolio"
+description = "This is my portfolio website that showcases my experiences"
+
+[[projects]]
+url = "https://github.com/JessCai06/Pittsburgh-Crash-Heat-Map-2025"
+description = "My research project for my Summer Undergraduate Research Apprenticeship @ CMU, May - Aug 2025."
+
+[[projects]]
+url = "https://github.com/JessCai06/Shapeshifter"
+description = "A simple 3D editor I created with my undergraduate freshman 15-112 course during Fall 2024."
+
+[[projects]]
+url = "https://github.com/JessCai06/Duquesne-Incline"
+description = "A recreation of the current Duquesne Incline website."

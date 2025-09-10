@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/sujitu0806/Cloudy-With-a-Chance-of-Sawblades"
+description = "Coded a physics-driven arcade game in Python featuring path-tracking obstacles, calculus-based collision dynamics, and a custom ray casting algorithm."
+
+[[projects]]
+url = "https://github.com/sujitu0806/Hack112"
+description = "Developed an application to convert videos into comic-style visuals using OpenCV. Integrated facial emotion recognition to assess expressions and dynamically adjust colors accordingly."
