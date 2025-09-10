@@ -6,4 +6,4 @@ description = "Interactive ASCII-graphics shape shooter game in Python with real
 [[projects]]
 name = "djamo-api-challenge"
 url = "https://github.com/allo-abhi/djamo-api-challenge"
-description = ""RESTful API built with Python and FastAPI for user registration, transactions, and financial data retrieval.""
+description = "RESTful API built with Python and FastAPI for user registration, transactions, and financial data retrieval."
