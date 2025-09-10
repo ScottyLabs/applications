@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/i-hdk/Magnetic-Spinner-Simulation"
+description = "This project was for my physics team, where I wrote a script in Unity to simulate magnetic gears/fidget spinners through magnetic forces."
+
+[[projects]]
+url = "https://github.com/i-hdk/over-under"
+description = "This repo contains my VEX robotics code from one of my competing years. I created path following and motion profiling functions."
+
+[[projects]]
+url = "https://github.com/i-hdk/AI-club-face-detection"
+description = "This short python script was a demo I made for my AI club in high school. It detects your face and can recognize it if you save your photo in the files."
