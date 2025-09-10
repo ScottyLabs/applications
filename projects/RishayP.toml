@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/RishayP/rowing-database"
+description = "A web app that aggregates 1,000+ race results and serves predictive analytics via a FastAPI backend."
+
+[[projects]]
+url = "https://github.com/RishayP/Music-Generation"
+description = "AI generated music trained off of classical piano"
+
+[[projects]]
+url = "https://github.com/HoilettLab/AS5FxxG04SND"
+description = "Private repo. Low-level QSPI drivers and firmware to log impact telemetry on a custom PCB."
