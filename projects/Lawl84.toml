@@ -4,4 +4,4 @@ description = "A website that predicts the optimal angle for solar panel placeme
 
 [[projects]]
 url = "https://github.com/Lawl84/asciify-video"
-description = "A CLI that converts and plays a video consisting of "asciified" images."
+description = "A CLI that converts and plays a video consisting of asciified images."
