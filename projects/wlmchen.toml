@@ -1,0 +1,51 @@
+[[projects]]
+url = "https://github.com/wlmchen/periodic-table-tui"
+description = "A periodic table for the command line"
+
+[[projects]]
+url = "https://github.com/wlmchen/parabolas-manpages"
+description = "A web interface to index and display Linux manual pages"
+
+[[projects]]
+url = "https://github.com/wlmchen/mindful"
+description = "Mental health tracking and analysis website"
+
+[[projects]]
+url = "https://github.com/wlmchen/robotics-tracker"
+description = "Shop hours tracker"
+
+[[projects]]
+url = "https://github.com/wlmchen/csf_tracker"
+description = "Volunteer hours tracker"
+
+[[projects]]
+url = "https://github.com/wlmchen/debugged-quiz"
+description = "Quiz to find most similar podcast guest"
+
+[[projects]]
+url = "https://github.com/wlmchen/PrimeBot"
+description = "Multi-purpose discord bot"
+
+[[projects]]
+url = "https://github.com/frc-7419/RapidReact-RoboScout"
+description = "iOS app for FRC robot data collection"
+
+[[projects]]
+url = "https://github.com/frc-7419/RapidReactScoutingWeb"
+description = "(Old username was pryme-svg) Website for logging FRC robot data to Google Sheets"
+
+[[projects]]
+url = "https://github.com/wlmchen/PlusPortals"
+description = "School portal alternative interface"
+
+[[projects]]
+url = "https://github.com/Jolteous/Leftovers-Love"
+description = "Website to discover recipies to make with leftovers"
+
+[[projects]]
+url = "https://ocf.berkeley.edu/~chenw/blog"
+description = "Archive of old server admin blog (most services don't work anymore, domain given to friend)"
+
+[[projects]]
+url = "https://gitlab.com/radwatch/dosenet-raspberrypi/-/tree/webui-fix?ref_type=heads"
+description = "Web interface for setup and data collection of radiation monitoring devices"
