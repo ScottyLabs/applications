@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/LoadingBFX/RegHealth-Navigator"
+description = "A CMU Summer 2025 capstone project using RAG + LLM to provide regulatory compliance navigation with semantic search, FAISS indexing, and AI-driven document comparison."
+
+[[projects]]
+url = "https://github.com/LoadingBFX/Sticklet"
+description = "An AI-powered receipt journal prototype using VLM + LLM to extract structured data from invoices, generate reports, and support natural language financial queries."
