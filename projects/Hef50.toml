@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/Hef50/foodreborn"
+description = "A website for a food repurposing startup that won us 3rd place in a pitch competition at an entrepreneurship camp."
+
+[[projects]]
+url = "https://github.com/Hef50/ScienceBowl"
+description = "A Science Bowl Question Reader that reads custom questions (often generated off notes by AI) in a buzzer format to train recall speed."
+
+[[projects]]
+url = "https://github.com/Hef50/hackna2023"
+description = "MotivMate is a fitness community challenge app that allows users to create and complete fitness challenges to gain points to climb a leaderboard, motivating people to work out and complete their friends' challenges."
