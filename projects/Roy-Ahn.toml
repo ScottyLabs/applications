@@ -1,0 +1,4 @@
+[[projects]]
+url = "https://github.com/Roy-Ahn/what-would-bible-say"
+description = "little and simple experiment of RNN Model using pytorch"
+
