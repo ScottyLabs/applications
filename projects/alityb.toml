@@ -1,3 +1,5 @@
+[user]
+github = "alityb"
 [[projects]]
 name = "AI Football Analytics Chatbot"
 url = "https://github.com/alityb/datambchat/tree/main/football_metrics_assistant"
