@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/IanShiii/Novillo-HW-Checker"
+description = "Webscraping tool that automatically checked homework assignments for my AP Computer Science class and emailed me whenever there was a new assignment."
+
+[[projects]]
+url = "https://github.com/IanShiii/Spotify-Jam-For-Desktop"
+description = "Scuffed way of recreating spotify jam feature for desktop using spotify's web API. I used this before spotify added the feature to desktop."
+
+[[projects]]
+url = "https://github.com/IanShiii/SMARS"
+description = "Arduino code for a little robot :D"
+
+[[projects]]
+url = "https://github.com/IanShiii/SMARS"
+description = "Arduino code for a little robot :D"
+
+[[projects]]
+url = "https://github.com/StuyPulse/Aunt-Mary"
+description = "Code for FRC team 694's 2025 robot, ranked 12th in the world in EPA"
