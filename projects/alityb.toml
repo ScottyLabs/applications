@@ -1,16 +1,12 @@
-[user]
-github = "alityb"
+
 [[projects]]
-name = "AI Football Analytics Chatbot"
 url = "https://github.com/alityb/datambchat/tree/main/football_metrics_assistant"
 description = "Built & deployed a chatbot with Gemini 1.5 Flash, FastAPI, improving site traffic by 500% on DataMB, designed an NLP pipeline with statistical mappings to reduce query errors by 78%."
 
 [[projects]]
-name = "SyncCli"
 url = "https://github.com/alityb/SyncCli"
 description = "C++ file sync tool achieving 4x faster incremental operations and 44% lower memory usage, with dry-run preview & mirror sync features."
 
 [[projects]]
-name = "SmartFileCmd"
 url = "https://github.com/alityb/SmartFileCmd"
 description = "C++/Python file manager optimized for speed and memory, handling 1K files in 1.78ms with inter-process communication for 300+ requests/sec."
