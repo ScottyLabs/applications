@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/Anthonyr5868/Anthonyr5868.github.io"
+description = "A portfolio website that displays my projects, skills, and contact information."
+
+[[projects]]
+url = "https://github.com/Anthonyr5868/MacroCalculator"
+description = "Macroc Calculator that calculates macronutrient needs based on user inputs desgined for TartanHacks 2025"
