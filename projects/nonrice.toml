@@ -4,7 +4,7 @@ description = "Online competitive programming judge/autograder for my high schoo
 
 [[projects]]
 url = "https://github.com/paulmthompson/WhiskerToolbox"
-description = "Desktop application for neuroscience-specific data analysis
+description = "Desktop application for neuroscience-specific data analysis"
 
 [[project]]
 url = "https://github.com/nonrice/clash-royale-battle-predictor"
