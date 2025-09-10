@@ -12,4 +12,3 @@ description = "C++ file sync tool achieving 4x faster incremental operations and
 name = "SmartFileCmd"
 url = "https://github.com/alityb/SmartFileCmd"
 description = "C++/Python file manager optimized for speed and memory, handling 1K files in 1.78ms with inter-process communication for 300+ requests/sec."
-
