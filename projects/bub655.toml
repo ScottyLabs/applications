@@ -1,0 +1,35 @@
+[[projects]]
+url = "https://github.com/bub655/feedo"
+description = "A TypeScript application that provides a modern feed management system with real-time updates and user-friendly interface."
+
+[[projects]]
+url = "https://github.com/bub655/coursify-main"
+description = "A comprehensive course creation platform that leverages Generative AI to automatically generate educational content and course materials."
+
+[[projects]]
+url = "https://github.com/bub655/coursify"
+description = "An AI-powered course creation tool that streamlines the process of building educational content through advanced machine learning algorithms."
+
+[[projects]]
+url = "https://github.com/bub655/vex-over-under"
+description = "A C++ robotics project for VEX competition featuring autonomous and driver-controlled modes with advanced sensor integration."
+
+[[projects]]
+url = "https://github.com/bub655/mla-skin-classification"
+description = "A machine learning model that classifies 10,015 skin lesions into 7 different categories of dermoscopic diseases using advanced computer vision techniques."
+
+[[projects]]
+url = "https://github.com/bub655/skin-cancer-detection-app"
+description = "A Jupyter Notebook application that provides automated skin cancer detection using deep learning models trained on medical imaging data."
+
+[[projects]]
+url = "https://github.com/bub655/poker"
+description = "A Texas Hold 'em Poker game built with TypeScript for ID Week, featuring multiplayer functionality and interactive gameplay."
+
+[[projects]]
+url = "https://github.com/bub655/microvasculature-kidney-scans"
+description = "A 3D medical imaging project that segments blood vessels using HiP-CT data from human kidneys to visualize microvasculature structures."
+
+[[projects]]
+url = "https://github.com/bub655/cahnstudios"
+description = "A JavaScript-based webinar webpage project for Cahn Studios featuring responsive design and interactive content delivery."
