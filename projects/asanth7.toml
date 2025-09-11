@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/asanth7/DeepQTrade"
+description = "Custom deep and ensemble methods for an RL trading agent acting in a simulated OpenAI Gym environment."
+
+[[projects]]
+url = "https://github.com/asanth7/Minority-USMedia-Representation"
+description = "Topic modeling analysis of 30,000+ news articles on racial minorities in America with NMF and LDA algorithms."
+
+[[projects]]
+url = "https://github.com/asanth7/SP500-news-prediction"
+description = "BERT, GloVe, and Word2Vec-based models for S&P500 stock prediction from global news headlines."
