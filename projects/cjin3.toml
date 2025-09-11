@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/cjin3/112-Term-Project"
+description = "A python tower defence game that supports creating and saving your own levels."
+
+[[projects]]
+url = "https://github.com/vixu8/hack112"
+description = "A small game engine for creating, exporting, and importing simple platformer games."

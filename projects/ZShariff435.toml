@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/ZShariff435/WGPA_Project"
+description = "A WGPA calculator for use in my high school district"
+
+[[projects]]
+url = "https://github.com/ZShariff435/jujutsuinvesting"
+description = "a startup-like project where I, alongside three other developers, built a website that attracted 15,000+ users investing virtual currency into characters from JJK."
+
+[[projects]]
+url = "https://github.com/AstroPixel24/princeton-stem-expo"
+description = "a website for a math/science competition I helped run and code that registered 70+ students and generated $1000+, used HTML, CSS and Javascript"
+
+[[projects]]
+url = "https://github.com/ZShariff435/T-Cell_Website"
+description = "A commissioned website for a tutoring company, used HTML, CSS and Javascript"
+
+[[projects]]
+url = "https://github.com/ZShariff435/EarthquakeAnalysis"
+description = "Code used in a research project to analyze tectonic stress data from the March 11 2011 Earthquake using R."
