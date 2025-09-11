@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/nayon0217/Waste-Classification"
+description = "Waste Classification website developed for IB CS Internal Assessment"
+
+[[projects]]
+url = "https://github.com/nayon0217/pathplanning"
+description = "Code for data modeling, collection and analysis used for path planning research for non-holonomic vehicles, algorithm testing simulation model developed using Robot Operating System (ROS2)."
+
+[[projects]]
+url = "https://github.com/nayon0217/uwcculturama2022"
+description = "Website for school performance using HTML/CSS/Javascript"
+
+[[projects]]
+url = "https://github.com/nayon0217/innovationx"
+description = "Promotional website for hackathon using Bootstrap"
+
+[[projects]]
+url = "https://github.com/nayon0217/news_analysis"
+description = "Code used for web scraping to collect news article datasets from CNN and the New York Times."
