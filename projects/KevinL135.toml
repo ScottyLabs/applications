@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/KevinL135/LADS"
+description = "Raspberry Pi code for operating a pressure washer turret designed to shoot down spotted lanternflies by detecting them using 2 cameras, calculating their location, and moving the turret motors to aim at them and fire the pressure washer."
+
+[[projects]]
+url = "https://github.com/KevinL135/Bakeoff2"
+description = "Software designed for a bakeoff competition to allow humans to fit the blue square into the red outline square as fast and accurately as possible."
