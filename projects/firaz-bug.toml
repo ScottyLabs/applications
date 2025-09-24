@@ -1,0 +1,48 @@
+[[projects]]
+url = "https://github.com/firaz-bug/ELITA-Enhanced-Logging-and-Telemetry-Assistant"
+description = "AI-powered RAG Agent for Support Engineers, enhancing incident management with context-aware assistance, auto-resolution, and intelligent recommendations."
+
+
+[[projects]]
+url = "https://github.com/firaz-bug/Dynamic-Hand-Sign-Detection"
+description = "Using machine learning models to recognize hand gestures of a host appearing in a video and convert into speech."
+
+[[projects]]
+url = "https://github.com/firaz-bug/CoviProtec"
+description = "This platform enables online vaccine booking for individuals and hospitals to manage vaccinations, stock, and appointments efficiently."
+
+[[projects]]
+url = "https://github.com/firaz-bug/Image-Caption-Generation"
+description = "Using machine learning models along with attention mechanism to identify a given image and generate the most appropriate caption for it."
+
+[[projects]]
+url = "https://github.com/firaz-bug/NEWS-Web-Application"
+description = "This news application provides users with the latest updates and breaking news from around the world. It offers a clean and user-friendly interface, allowing users to browse news by categories, search for specific topics, and stay informed with real-time updates."
+
+[[projects]]
+url = "https://github.com/firaz-bug/Invoice-Generator"
+description = "The Invoice Project is a Django web app for creating, managing, and tracking invoices, with features like client management and payment tracking."
+
+[[projects]]
+url = "https://github.com/firaz-bug/Loan-Management"
+description = "The Loan App is a tool for managing loans, allowing users to apply for loans and track payments, balances, and due dates."
+
+[[projects]]
+url = "https://github.com/firaz-bug/University-Admit-Eligibility-Predictor"
+description = "The application collects user-provided input and combines it with preprocessed student data. The data is passed through machine learning models, including linear and logistic regression, to generate prediction results, which are then displayed to the user."
+
+[[projects]]
+url = "https://github.com/firaz-bug/Handwritten-Number-Recognization"
+description = "Neural network model to recognize handwritten numbers."
+
+[[projects]]
+url = "https://github.com/firaz-bug/Membership-Registration-REST-API"
+description = "This project is a REST API for managing membership generation, providing endpoints to create, update, and delete memberships. It supports features like user registration, membership tier management, and tracking membership status, ensuring a seamless integration with applications needing membership functionalities."
+
+[[projects]]
+url = "https://github.com/firaz-bug/Chatbot"
+description = "Chatbot created using nltk and tensorflow."
+
+[[projects]]
+url = "https://link.springer.com/chapter/10.1007/978-981-99-5961-7_3"
+description = "Automatic Multiple Choice Question (MCQ) Generation from Extractive Summary of Video Lectures Using BertSum. Presented at ICSLE 2023."
