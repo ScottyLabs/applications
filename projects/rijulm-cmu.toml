@@ -1,0 +1,19 @@
+name = "rijulm-cmu"
+
+# none of my projects are on github yet, so i am filling this in the best i can. sorry.
+
+[[projects]]
+name = "college-swipe"
+description = "I provided front-end design support for an app that helped students narrow down colleges to apply to and save their favorites in lists."
+language = "React Native"
+stars = 0
+
+[[projects]]
+name = "scioly-detector"
+description = "A weighing scale made with a breadboard and force sensing resistor that converted voltage to weights using statistical analysis."
+language = "Python"
+
+[[projects]]
+name = "cancer-analysis"
+description = "a survival model that analyzed patient data and found a potential correlation between the method of cancer mutations and the survival time of patients."
+language = "R"
